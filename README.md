@@ -8,7 +8,7 @@ Have developed api testing frameworks using Java, TestNG, Springframework, Allur
 
 - 🔭 I’m currently working on upgrading core-api framework for next version.
 - 🌱 I’m currently learning Python, ReactJS and other tools.
-- 📫 How to reach me: mail me to pavandv9@gmail.com or call me to 9481857048.
+- 📫 How to reach me: mail me to pavandv9@gmail.com or 📱: +91-9481857048.
 - 🕵🏻‍♂️ Something interesting can be find [here](https://pavandv9.gitbook.io/)
 
 <!--
